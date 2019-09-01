@@ -6,7 +6,7 @@ repo for my youtube exedra example project
 - [Exedra - APIs development example](https://www.youtube.com/watch?v=iCe2_sx6go0)
 
 ## install
-`composer install`
+`composer install rosengate/exedra`
 
 ## list existing routes
 `php console.php app:routes`
